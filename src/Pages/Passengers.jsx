@@ -53,7 +53,7 @@ function Passengers() {
         }
         console.log(formData);
         try {
-            const response = await axios.post('http://localhost:5000/api/create/passenger', formData);
+            const response = await axios.post('https://trainbooking-backend.onrender.com/api/create/passenger', formData);
             console.log('Passenger details saved:', response.data);
 
             setFormSubmitted(true);
