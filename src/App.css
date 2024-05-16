@@ -1,0 +1,97 @@
+.loginBox{
+  background: transparent;
+  backdrop-filter: blur(15px);
+  height: 32rem;
+border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.header{
+  background-color: rgb(32, 32, 33);
+  height: 35px;
+  background-size: cover;
+  background-position: center;
+}
+.para1{
+  font-size: 14px;
+}
+.icons{
+  margin-left: 90px;  
+  padding-top: 2px;
+}
+.inputBox{
+  background: transparent;
+  backdrop-filter: blur(5px);
+  height: 23rem;
+  width: 30rem;
+border: 2px solid rgba(149, 149, 149, 0.397);
+}
+.footer{
+  background-color: rgb(32, 32, 33);
+}
+.info{
+  line-height: 35px;
+  height: 200px;
+}
+.icon{
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  border-radius: 80px;
+}
+.icon2{
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  border-radius: 80px;
+}
+.icon3{
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  border-radius: 80px;
+}
+.header2{
+  background-color: rgb(32, 32, 33);
+  height: 35px;
+  background-size: cover;
+  background-position: center;
+  border-bottom: 4px solid #ba3800;
+}
+.result{
+  background-color: rgb(244, 244, 244) ;
+  height: 100vh;
+}
+.trsinLogo{
+  background-color:  rgb(32, 32, 33);
+  color: white;
+  font-size: 90px;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+.buyButton:hover{
+background-color: #ba3800;
+color: white;
+}
+.buyButton{
+  background-color:rgb(32, 32, 33) ;
+  color: white;
+}
+.bar{
+  background-color: rgb(244, 244, 244) ;
+}
+.resultPage{
+  background-color: rgb(244, 244, 244) ;
+}
+.p-div{
+  background-color: rgb(32, 32, 33);
+}
+.result2{
+  background-color: rgb(244, 244, 244) ;
+  height: 165vh;
+}
+.details{
+  margin-left: -200px;
+}
+.validate{
+  background-color: rgb(244, 244, 244) ;
+}

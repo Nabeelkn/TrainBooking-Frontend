@@ -1,0 +1,98 @@
+[
+    {
+        "trainName": "Express 123",
+        "trainNo": "6793",
+        "from": "Palakkad",
+        "to": " Thirunalveli",
+        "departureTime": "08:00 AM",
+        "fare": "330"
+    },
+    {
+        "trainName": "Local Train XYZ",
+        "trainNo": "8432",
+        "from": "Kozhikode ",
+        "to": "Pune",
+        "departureTime": "10:30 AM",
+        "fare": "340"
+    },
+    {
+        "trainName": "express 456",
+        "trainNo": "4587",
+        "from": " Shoranur",
+        "to": "Trissur ",
+        "departureTime": "12:45 PM",
+        "fare": "30"
+    },
+    {
+        "trainName": "Express 123",
+        "trainNo": "9065",
+        "from": "Palakkad",
+        "to": " Thirunalveli",
+        "departureTime": "08:00 AM",
+        "fare": "300"
+    },
+    {
+        "trainName": "Local Train XYZ",
+        "trainNo": "9042",
+        "from": "Kozhikode ",
+        "to": "Pune",
+        "departureTime": "10:30 AM",
+        "fare": "560"
+    },
+    {
+        "trainName": "Superfast 456",
+        "trainNo": "1864",
+        "from": " Shoranur",
+        "to": "Trissur ",
+        "departureTime": "12:45 PM",
+        "fare": "40"
+    },
+    {
+        "trainName": "Limited stop 456",
+        "trainNo": "7823",
+        "from": "Coimbatore",
+        "to": "Palani ",
+        "departureTime": "12:45 PM",
+        "fare": "70"
+    },
+    {
+        "trainName": "Goa express ",
+        "trainNo": "8953",
+        "from": " Trivandrum",
+        "to": "Goa ",
+        "departureTime": "12:45 PM",
+        "fare": "389"
+    },
+    {
+        "trainName": "Jodhpur express ",
+        "trainNo": "0923",
+        "from": " Jaisalmer",
+        "to": "Jodhpur ",
+        "departureTime": "12:45 PM",
+        "fare": "120"
+    },
+    {
+        "trainName": "Sabari express ",
+        "trainNo": "9054",
+        "from": " Madhurai",
+        "to": "Rameshwaram ",
+        "departureTime": "12:45 PM",
+        "fare": "47"
+    },
+    {
+        "trainName": "Local xyz 12",
+        "trainNo": "386",
+        "from": " Mettupalayam",
+        "to": "Ooty ",
+        "departureTime": "12:45 PM",
+        "fare": "39"
+    },
+    {
+        "trainName": "Superfast 456",
+        "trainNo": "1864",
+        "from": " Palakkad",
+        "to": "Ernamkulam",
+        "departureTime": "12:45 PM",
+        "fare": "65"
+    }
+]
